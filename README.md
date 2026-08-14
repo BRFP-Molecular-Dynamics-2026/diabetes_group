@@ -1,4 +1,4 @@
-# Project Title
+# Molecular Dynamics Analysis of Substitution Effects on the Thermal Stability of the Trp-Cage Miniprotein
 
 Welcome to our BRFP Molecular Dynamics group project repository.
 
@@ -16,17 +16,13 @@ Replace these instructions with your own project introduction.
 
 ## Team Members
 
-- Student name
-- Student name
-- Student name
+- Lea Choi
+- Prisha Gupta
+- Leo Luo
 
 ## Project Objective
 
-Briefly state what your group intends to investigate.
-
-For example:
-
-> The objective of this project is to compare the structural behavior of the wild-type and modified protein using molecular dynamics simulations.
+> The objective of this project is to visualize the unfolding of the Trp-cage miniprotein and characterize how replacing Gly10 or Gly15 with L-alanine alters the thermal stability of the Trp-cage miniprotein, using molecular dynamics simulations at 310 K, 360 K, and 410 K.
 
 ## Repository Contents
 
